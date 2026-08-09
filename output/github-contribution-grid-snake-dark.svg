@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="110" viewBox="0 0 720 110">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="20" y="24" fill="#c9d1d9" font-size="16">Contribution Snake (placeholder)</text>
+    <!-- draw a 7x10 grid of squares like a contributions grid -->
+    <g transform="translate(10,30)">
+      <!-- 10 columns x 7 rows, square 18 size + 6 spacing -->
+      <!-- random-ish pattern of greens to simulate contributions -->
+      <rect x="0" y="0" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="24" y="0" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="48" y="0" width="18" height="18" rx="3" fill="#0b3b12"/>
+      <rect x="72" y="0" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="96" y="0" width="18" height="18" rx="3" fill="#0f6b2f"/>
+      <rect x="120" y="0" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="144" y="0" width="18" height="18" rx="3" fill="#0b3b12"/>
+      <rect x="168" y="0" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="192" y="0" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="216" y="0" width="18" height="18" rx="3" fill="#05250a"/>
+
+      <rect x="0" y="24" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="24" y="24" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="48" y="24" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="72" y="24" width="18" height="18" rx="3" fill="#0b3b12"/>
+      <rect x="96" y="24" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="120" y="24" width="18" height="18" rx="3" fill="#0f6b2f"/>
+      <rect x="144" y="24" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="168" y="24" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="192" y="24" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="216" y="24" width="18" height="18" rx="3" fill="#05250a"/>
+
+      <rect x="0" y="48" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="24" y="48" width="18" height="18" rx="3" fill="#0f6b2f"/>
+      <rect x="48" y="48" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="72" y="48" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="96" y="48" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="120" y="48" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="144" y="48" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="168" y="48" width="18" height="18" rx="3" fill="#0b3b12"/>
+      <rect x="192" y="48" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="216" y="48" width="18" height="18" rx="3" fill="#05250a"/>
+
+      <rect x="0" y="72" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="24" y="72" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="48" y="72" width="18" height="18" rx="3" fill="#0b3b12"/>
+      <rect x="72" y="72" width="18" height="18" rx="3" fill="#155724"/>
+      <rect x="96" y="72" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="120" y="72" width="18" height="18" rx="3" fill="#05250a"/>
+      <rect x="144" y="72" width="18" height="18" rx="3" fill="#08350a"/>
+      <rect x="168" y="72" width="18" height="18" rx="3" fill="#093b08"/>
+      <rect x="192" y="72" width="18" height="18" rx="3" fill="#0f6b2f"/>
+      <rect x="216" y="72" width="18" height="18" rx="3" fill="#05250a"/>
+    </g>
+  </g>
+</svg>
